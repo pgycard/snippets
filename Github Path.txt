@@ -1,0 +1,3 @@
+GitHub repository: pgycard/snippets
+File path in repo: quicktext-snippets.json
+Access token
