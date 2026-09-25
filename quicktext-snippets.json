@@ -1,23 +1,94 @@
 {
-  "af": "Cannot accurately assess the diastolic function in the context of atrial fibrillation",
-  "aorta": "Mildly dilated aortic root and proximal ascending aorta measuring 40 mm in diameter, respectively.",
-  "dob": "The test was performed using high dose dobutamine stress, achieving the target heart rate (113% MPHR) at an infusion rate of 40 mcg/kg/min with supplementary 0.6 mg of atropine and ergonomic stress ball gripping. Normal BP response. Test was terminated due to completion of routine protocol. No chest discomfort or dyspnea reported.\n\nECG findings: No significant ST changes or arrhythmias. \n\nEcho: At baseline, the left ventricle is normal in size. The left ventricular systolic function is normal. Ejection Fraction = 55-60%. Following peak stress, there was augmented contractility in all left ventricular myocardial segments with no regional wall motion abnormalities or cavity dilatation.\n\nConclusion: Clinically, ECG and echocardiographically negative for inducible ischemia.",
-  "ecg": "Normal sinus rhythm with no significant ST or T wave changes.",
-  "enl": "1. Normal left ventricular size and global systolic function (LVEF = 55-60%). Normal diastolic function. No regional wall motion abnormalities noted. No LV thrombus seen on contrast echo.\n2. Normal right ventricular size and global systolic function.\n3. No hemodynamically significant valvular dysfunction.\n4. Trace tricuspid regurgitation with insufficient Doppler signal to estimate the RVSP. The right atrial pressure is estimated to be 3 mmHg.\n\nNo previous for comparison.",
-  "ervsp": "1. Normal left ventricular size and global systolic function (LVEF = 55-60%). Normal diastolic function. No regional wall motion abnormalities noted. No LV thrombus seen on contrast echo.\n2. Normal right ventricular size and global systolic function.\n3. No hemodynamically significant valvular dysfunction.\n4. Trace tricuspid regurgitation with an estimated RVSP of 20-25 mmHg presuming a right atrial pressure of 3 mmHg.\n\nNo previous for comparison.",
-  "fem": "I have not arranged any further follow-up at this time. Should there be a change in her cardiac status, please feel free to contact me at the office.\n\nAll questions were addressed to her satisfaction. She knows to visit the nearest ER if she has worrisome symptoms of chest pain, palpitation, lightheadedness or dyspnea. ",
-  "fre": "These findings suggest against a cardiac cause for her chest discomfort and place her at a low risk for future cardiac events, granted that her modifiable cardiac risk factors are well controlled. Overall, she feels quite reassured and will try to lead a healthier and more active lifestyle.",
-  "gxt": "Patient exercised for 7:00 minute:second on the Bruce protocol, achieving the target heart rate (92% MPHR) and 8.5 METS. Normal BP response to exercise. Test was terminated due to fatigue. No chest discomfort reported.\n\nECG findings: No significant ST changes or arrhythmia noted.\n\nConclusion: Low risk stress test. A Duke Treadmill Score of +7 predicts a favourable cardiac prognosis.\nSubmaximal stress test. If there is strong clinical suspicion of ischemic heart disease, consider further risk stratification with a pharmacologic based stress test (.e.g, persantine MIBI).",
-  "holt": "Low risk study.\nSinus rhythm predominantly with a mean HR of 94 bpm.\nVery low ectopic burden.\nNo prolonged runs or pauses seen.\nNo atrial fibrillation or flutter noted.\nNo symptoms reported.\nPatient reported symptoms of \"dizziness\", \"palpitation\" and \"nausea\" corresponded to normal sinus rhythm. No symptom-rhythm correlation established.",
-  "ie": "No mobile masses/vegetations or abscess cavity seen on this fair quality study.",
-  "mal": "I have not arranged any further follow-up at this time. Should there be a change in his cardiac status, please feel free to contact me at the office.\n\nAll questions were addressed to his satisfaction. He knows to visit the nearest ER if he has worrisome symptoms of chest pain, palpitation, lightheadedness or dyspnea. ",
-  "mre": "These findings suggest against a cardiac cause for his chest discomfort and place him at a low risk for future cardiac events, granted that his modifiable cardiac risk factors are well controlled. Overall, he feels quite reassured and will try to lead a healthier and more active lifestyle.",
-  "peff": "Trace pericardial effusion with no echocardiographic evidence of tamponade",
-  "poor": "Technically challenging study with poor visualization of multiple cardiac structures.",
-  "se": "Patient exercised for 7:15 minutes:seconds on the Bruce protocol, achieving the target heart rate (100% MPHR) and 8 METS. Normal BP response to exercise. Test was terminated due to fatigue. No chest pain or dyspnea reported.\n\nECG findings: no significant ST changes or arrhythmia noted.\n\nEcho: At baseline, the left ventricle is normal in size. The left ventricular systolic function is normal. Ejection Fraction = 60-65%. Following peak exercise, there was augmented contractility in all LV segments with no regional wall motion abnormalities or cavity dilatation.\n\nConclusions: Clinically, ECG and echocardiographically negative for inducible ischemia.",
-  "shunt": "No interatrial shunt noted by colour Doppler or after injection of agitated saline.",
-  "size": "The aortic root and proximal ascending aorta appear normal in size.",
-  "smo": "does not smoke, drink alcohol or use recreational drugs.",
-  "tee": "A 2/3D transesophageal echocardiogram with Doppler and colour flow Doppler was performed. The risks of the procedure, including esophageal injury and/or perforation, were explained to the patient, and informed consent was obtained. The TEE probe was inserted without any difficulty. Sedation was provided by anesthesia. Patient tolerated the procedure well. No complications.",
-  "tri": "The aortic valve is not well visualized. Morphology cannot be determined."
+  "af": {
+    "html": "Cannot accurately assess the diastolic function in the context of atrial fibrillation",
+    "text": "Cannot accurately assess the diastolic function in the context of atrial fibrillation"
+  },
+  "aorta": {
+    "html": "Mildly dilated aortic root and proximal ascending aorta measuring 40 mm in diameter, respectively.",
+    "text": "Mildly dilated aortic root and proximal ascending aorta measuring 40 mm in diameter, respectively."
+  },
+  "con": {
+    "html": "No other concerns were identified on review of systems.",
+    "text": "No other concerns were identified on review of systems."
+  },
+  "dob": {
+    "html": "The test was performed using high dose dobutamine stress, achieving the target heart rate (113% MPHR)&nbsp;at&nbsp;an infusion rate of 40 mcg/kg/min&nbsp;with supplementary 0.6 mg of&nbsp;atropine&nbsp;and&nbsp;ergonomic stress ball gripping. Normal BP response. Test was terminated due to completion of routine protocol. No chest discomfort or dyspnea reported.<br><br>ECG findings: No significant ST changes or arrhythmias. <br><br>Echo: At baseline, the left ventricle is normal in size. The left ventricular systolic function is normal. Ejection Fraction = 55-60%. Following peak stress, there was augmented contractility in all left ventricular myocardial segments with no regional wall motion abnormalities or cavity dilatation.<br><br>Conclusion: Clinically, ECG and echocardiographically negative for inducible ischemia.",
+    "text": "The test was performed using high dose dobutamine stress, achieving the target heart rate (113% MPHR) at an infusion rate of 40 mcg/kg/min with supplementary 0.6 mg of atropine and ergonomic stress ball gripping. Normal BP response. Test was terminated due to completion of routine protocol. No chest discomfort or dyspnea reported.\n\nECG findings: No significant ST changes or arrhythmias. \n\nEcho: At baseline, the left ventricle is normal in size. The left ventricular systolic function is normal. Ejection Fraction = 55-60%. Following peak stress, there was augmented contractility in all left ventricular myocardial segments with no regional wall motion abnormalities or cavity dilatation.\n\nConclusion: Clinically, ECG and echocardiographically negative for inducible ischemia."
+  },
+  "ecg": {
+    "html": "Normal sinus rhythm with no significant ST or T wave changes.",
+    "text": "Normal sinus rhythm with no significant ST or T wave changes."
+  },
+  "enl": {
+    "html": "1. Normal left ventricular size and global systolic function (LVEF = 55-60%). Normal diastolic function. No regional wall motion abnormalities noted. No LV thrombus seen on contrast echo.<br>2. Normal right ventricular size and global systolic function.<br>3. No hemodynamically significant valvular dysfunction.<br>4. Trace tricuspid regurgitation with insufficient Doppler signal to estimate the RVSP. The right atrial pressure is estimated to be 3 mmHg.<br><br>No previous for comparison.",
+    "text": "1. Normal left ventricular size and global systolic function (LVEF = 55-60%). Normal diastolic function. No regional wall motion abnormalities noted. No LV thrombus seen on contrast echo.\n2. Normal right ventricular size and global systolic function.\n3. No hemodynamically significant valvular dysfunction.\n4. Trace tricuspid regurgitation with insufficient Doppler signal to estimate the RVSP. The right atrial pressure is estimated to be 3 mmHg.\n\nNo previous for comparison."
+  },
+  "ervsp": {
+    "html": "1. Normal left ventricular size and global systolic function (LVEF = 55-60%). Normal diastolic function. No regional wall motion abnormalities noted. No LV thrombus seen on contrast echo.<br>2. Normal right ventricular size and global systolic function.<br>3. No hemodynamically significant valvular dysfunction.<br>4. Trace tricuspid regurgitation with an estimated RVSP of 20-25 mmHg presuming a right atrial pressure of 3 mmHg.<br><br>No previous for comparison.",
+    "text": "1. Normal left ventricular size and global systolic function (LVEF = 55-60%). Normal diastolic function. No regional wall motion abnormalities noted. No LV thrombus seen on contrast echo.\n2. Normal right ventricular size and global systolic function.\n3. No hemodynamically significant valvular dysfunction.\n4. Trace tricuspid regurgitation with an estimated RVSP of 20-25 mmHg presuming a right atrial pressure of 3 mmHg.\n\nNo previous for comparison."
+  },
+  "fem": {
+    "html": "I have not arranged any further follow-up at this time. Should there be a change in her cardiac status, please feel free to contact me at the office.<br><br>All questions were addressed to her satisfaction.&nbsp;She knows to visit the nearest ER if she has worrisome symptoms of chest pain, palpitation, lightheadedness or dyspnea.&nbsp;",
+    "text": "I have not arranged any further follow-up at this time. Should there be a change in her cardiac status, please feel free to contact me at the office.\n\nAll questions were addressed to her satisfaction. She knows to visit the nearest ER if she has worrisome symptoms of chest pain, palpitation, lightheadedness or dyspnea. "
+  },
+  "fre": {
+    "html": "These findings suggest against a cardiac cause for her chest discomfort and place her at a low risk for future cardiac events, granted that her modifiable cardiac risk factors are well controlled. Overall, she feels quite reassured and will try to lead a healthier and more active lifestyle.",
+    "text": "These findings suggest against a cardiac cause for her chest discomfort and place her at a low risk for future cardiac events, granted that her modifiable cardiac risk factors are well controlled. Overall, she feels quite reassured and will try to lead a healthier and more active lifestyle."
+  },
+  "gxt": {
+    "html": "Patient exercised for 7:00 minute:second on the Bruce protocol, achieving the target heart rate (92% MPHR) and 8.5 METS. Normal BP response to exercise. Test was terminated due to fatigue. No chest discomfort reported.<br><br>ECG findings: No significant ST changes or arrhythmia noted.<br><br>Conclusion: Low risk stress test. A Duke Treadmill Score of +7 predicts a favourable cardiac prognosis.<br>Submaximal stress test. If there is strong clinical suspicion of ischemic heart disease, consider further risk stratification with a pharmacologic based stress test (.e.g, persantine MIBI).",
+    "text": "Patient exercised for 7:00 minute:second on the Bruce protocol, achieving the target heart rate (92% MPHR) and 8.5 METS. Normal BP response to exercise. Test was terminated due to fatigue. No chest discomfort reported.\n\nECG findings: No significant ST changes or arrhythmia noted.\n\nConclusion: Low risk stress test. A Duke Treadmill Score of +7 predicts a favourable cardiac prognosis.\nSubmaximal stress test. If there is strong clinical suspicion of ischemic heart disease, consider further risk stratification with a pharmacologic based stress test (.e.g, persantine MIBI)."
+  },
+  "holt": {
+    "html": "Low risk study.<br>Sinus rhythm predominantly with a mean HR of 94 bpm.<br>Very low ectopic burden.<br>No prolonged runs or pauses seen.<br>No atrial fibrillation or flutter noted.<br>No symptoms reported.<br>Patient reported symptoms of \"dizziness\", \"palpitation\" and \"nausea\" corresponded to normal sinus rhythm. No symptom-rhythm correlation established.",
+    "text": "Low risk study.\nSinus rhythm predominantly with a mean HR of 94 bpm.\nVery low ectopic burden.\nNo prolonged runs or pauses seen.\nNo atrial fibrillation or flutter noted.\nNo symptoms reported.\nPatient reported symptoms of \"dizziness\", \"palpitation\" and \"nausea\" corresponded to normal sinus rhythm. No symptom-rhythm correlation established."
+  },
+  "ie": {
+    "html": "No mobile masses/vegetations or abscess cavity seen on this fair quality study.",
+    "text": "No mobile masses/vegetations or abscess cavity seen on this fair quality study."
+  },
+  "mal": {
+    "html": "I have not arranged any further follow-up at this time. Should there be a change in his cardiac status, please feel free to contact me at the office.<br><br>All questions were addressed to his satisfaction.&nbsp;He knows to visit the nearest ER if he has worrisome symptoms of chest pain, palpitation, lightheadedness or dyspnea.&nbsp;",
+    "text": "I have not arranged any further follow-up at this time. Should there be a change in his cardiac status, please feel free to contact me at the office.\n\nAll questions were addressed to his satisfaction. He knows to visit the nearest ER if he has worrisome symptoms of chest pain, palpitation, lightheadedness or dyspnea. "
+  },
+  "mre": {
+    "html": "These findings suggest against a cardiac cause for his chest discomfort and place him at a low risk for future cardiac events, granted that his modifiable cardiac risk factors are well controlled. Overall, he feels quite reassured and will try to lead a healthier and more active lifestyle.",
+    "text": "These findings suggest against a cardiac cause for his chest discomfort and place him at a low risk for future cardiac events, granted that his modifiable cardiac risk factors are well controlled. Overall, he feels quite reassured and will try to lead a healthier and more active lifestyle."
+  },
+  "peff": {
+    "html": "Trace pericardial effusion with no echocardiographic evidence of tamponade",
+    "text": "Trace pericardial effusion with no echocardiographic evidence of tamponade"
+  },
+  "poor": {
+    "html": "Technically challenging study with poor visualization of multiple cardiac structures.",
+    "text": "Technically challenging study with poor visualization of multiple cardiac structures."
+  },
+  "se": {
+    "html": "Patient exercised for 7:15 minutes:seconds on the Bruce protocol, achieving the target heart rate (100% MPHR) and 8&nbsp;METS. Normal BP response to exercise. Test was terminated due to fatigue. No chest pain or dyspnea reported.<br><br>ECG findings: no significant ST changes or arrhythmia noted.<br><br>Echo: At baseline, the left ventricle is normal in size. The left ventricular systolic function is normal. Ejection Fraction = 60-65%. Following peak exercise, there was augmented contractility in all LV segments with no regional wall motion abnormalities or cavity dilatation.<br><br>Conclusions: Clinically, ECG and echocardiographically negative for inducible ischemia.",
+    "text": "Patient exercised for 7:15 minutes:seconds on the Bruce protocol, achieving the target heart rate (100% MPHR) and 8 METS. Normal BP response to exercise. Test was terminated due to fatigue. No chest pain or dyspnea reported.\n\nECG findings: no significant ST changes or arrhythmia noted.\n\nEcho: At baseline, the left ventricle is normal in size. The left ventricular systolic function is normal. Ejection Fraction = 60-65%. Following peak exercise, there was augmented contractility in all LV segments with no regional wall motion abnormalities or cavity dilatation.\n\nConclusions: Clinically, ECG and echocardiographically negative for inducible ischemia."
+  },
+  "shunt": {
+    "html": "No interatrial shunt noted by colour Doppler or after injection of agitated saline.",
+    "text": "No interatrial shunt noted by colour Doppler or after injection of agitated saline."
+  },
+  "size": {
+    "html": "The aortic root and proximal ascending aorta appear normal in size.",
+    "text": "The aortic root and proximal ascending aorta appear normal in size."
+  },
+  "smo": {
+    "html": "does not smoke, drink alcohol or use recreational drugs.",
+    "text": "does not smoke, drink alcohol or use recreational drugs."
+  },
+  "sym": {
+    "html": "continues to do well from a clinical standpoint without any complaint of chest discomfort, palpitation, lightheadedness or dyspnea",
+    "text": "continues to do well from a clinical standpoint without any complaint of chest discomfort, palpitation, lightheadedness or dyspnea"
+  },
+  "tee": {
+    "html": "A 2/3D transesophageal echocardiogram with Doppler and colour flow Doppler was performed. The risks of the procedure, including esophageal injury and/or perforation, were explained to the patient, and informed consent was obtained. The TEE probe was inserted without any difficulty. Sedation was provided by anesthesia. Patient tolerated the procedure well. No complications.",
+    "text": "A 2/3D transesophageal echocardiogram with Doppler and colour flow Doppler was performed. The risks of the procedure, including esophageal injury and/or perforation, were explained to the patient, and informed consent was obtained. The TEE probe was inserted without any difficulty. Sedation was provided by anesthesia. Patient tolerated the procedure well. No complications."
+  },
+  "tri": {
+    "html": "The aortic valve is not well visualized. Morphology cannot be determined.",
+    "text": "The aortic valve is not well visualized. Morphology cannot be determined."
+  }
 }
